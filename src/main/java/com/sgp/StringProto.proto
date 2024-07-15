@@ -1,0 +1,4 @@
+syntax = "proto2";
+message StringProto {
+  optional string myString = 1;
+}
